@@ -1,8 +1,3 @@
-언더테일 아시는구나!
-
-
-# 소속된 곳
-
 ## 불과 얼음의 춤 비공식 포럼
 
 ### 직책 및 하는 일
@@ -30,20 +25,3 @@ ADOFAI.gg Developer
   
 https://adofai.gg  
 https://discord.gg/adofaigg
-  
-  
-## IKS WORLD
-
-### 직책 및 하는 일
-IKS WORLD 스태프  
-IKS WORLD Staff
-
-신고, 문의 등의 민원을 처리하고 있습니다.  
-IKS WORLD Bot을 개발하고 있습니다.  
-
-
-### 관련 링크
-
-https://iksworld.kr  
-https://discord.iksworld.kr  
-https://cafe.iksworld.kr
